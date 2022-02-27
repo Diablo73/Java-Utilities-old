@@ -3,7 +3,7 @@ package unitTests;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import utils.ShieldConvertUtil;
+import com.diablo73.utils.ShieldConvertUtil;
 
 /**
  * @author Diablo73

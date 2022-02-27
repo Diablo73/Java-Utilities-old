@@ -1,4 +1,4 @@
-package utils;
+package com.diablo73.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
